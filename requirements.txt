@@ -1,0 +1,7 @@
+ipykernel
+pandas
+numpy 
+matplotlib 
+seaborn
+agent-framework
+dotenv
