@@ -5,3 +5,5 @@ matplotlib
 seaborn
 agent-framework
 dotenv
+azure-mgmt-postgresqlflexibleservers
+psycopg2-binary
