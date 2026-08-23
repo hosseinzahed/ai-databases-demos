@@ -1,4 +1,4 @@
-# 🧑‍💻 ai-databases-demos
+# 🧑‍💻 Building the Frontier for AI with Databases
 
 Side-by-side demos of **AI database capabilities on Azure** — keyword, vector, and hybrid
 search over the same book catalogue, implemented twice: once in **Azure Cosmos DB for NoSQL**
